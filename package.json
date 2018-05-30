@@ -1,0 +1,20 @@
+{
+  "name": "extended-nodemailer",
+  "version": "1.0.0",
+  "description": "Nodemailer extended with template directory management",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest",
+    "test-unit-all": "npm run test -- unit"
+  },
+  "repository": "git://github.com/isaacSennerholt/extended-nodemailer.git",
+  "keywords": ["nodemailer", "mailer", "email templates", "template directory"],
+  "author": "isaacsennerholt <isaac.sennerholt@gmail.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "20.0.4"
+  },
+  "dependencies": {
+    "nodemailer": "^4.6.4"
+  }
+}
