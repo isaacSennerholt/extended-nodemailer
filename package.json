@@ -1,6 +1,6 @@
 {
   "name": "extended-nodemailer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Nodemailer extended with template directory management.",
   "main": "lib/extendedNodemailer.js",
   "scripts": {
@@ -8,7 +8,12 @@
     "test-unit-all": "npm run test -- unit"
   },
   "repository": "git://github.com/isaacSennerholt/extended-nodemailer.git",
-  "keywords": ["nodemailer", "mailer", "email templates", "template directory"],
+  "keywords": [
+    "nodemailer",
+    "mailer",
+    "email templates",
+    "template directory"
+  ],
   "author": "isaacsennerholt <isaac.sennerholt@gmail.com>",
   "license": "ISC",
   "devDependencies": {
