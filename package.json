@@ -1,8 +1,8 @@
 {
   "name": "extended-nodemailer",
   "version": "1.0.0",
-  "description": "Nodemailer extended with template directory management",
-  "main": "index.js",
+  "description": "Nodemailer extended with template directory management.",
+  "main": "lib/extendedNodemailer.js",
   "scripts": {
     "test": "./node_modules/.bin/jest",
     "test-unit-all": "npm run test -- unit"
